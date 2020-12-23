@@ -1,4 +1,4 @@
-import Estella.modules.sql.blacklistusers_sql as sql
+import Estella.modules.sql.blacklist_sql as sql
 from Estella import ALLOW_EXCL
 from Estella import (DEV_USERS, DRAGONS, DEMONS, TIGERS, WOLVES)
 
