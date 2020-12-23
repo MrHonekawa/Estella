@@ -39,7 +39,7 @@ __ADDRESS__ - _DJhzf9vZnqgk71jHLET86UizRVwSVKKVsi_
 
 
 __ETH__ -
-![ETH](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEthereum&psig=AOvVaw1gyxaV2Ysiy0Ggu_nWUv9V&ust=1608788349980000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODKxeSx4-0CFQAAAAAdAAAAABAD)
+![ETH](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png)
 
 __ADDRESS__ - _0x3981644643221e54c3D539cb77F446Fd48aAd745_
 
