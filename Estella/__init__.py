@@ -170,8 +170,6 @@ else:
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
 
-REDIS = StrictRedis.from_url(REDIS_URL,decode_responses=True)
-
 try:
 
     REDIS.ping()
@@ -183,10 +181,6 @@ except BaseException:
     raise Exception("Your redis server is not alive, please check again.")
 
 finally:
-
-   REDIS.ping()
-
-   LOGGER.info("Your redis server is now alive!")
     
 
 if not SPAMWATCH_API:
@@ -207,7 +201,7 @@ DEMONS = list(DEMONS)
 TIGERS = list(TIGERS)
 
 # Load at end to ensure all prev variables have been set
-from SaitamaRobot.modules.helper_funcs.handlers import (CustomCommandHandler,
+from Estella.modules.helper_funcs.handlers import (CustomCommandHandler,
                                                         CustomMessageHandler,
                                                         CustomRegexHandler)
 
