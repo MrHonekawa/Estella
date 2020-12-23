@@ -75,7 +75,12 @@
       "value": "CAADBAAD6AMAAkJ_EQNu_RjOszbmnxYE"
     }
   },
-  "addons": [
+            "sw_api": {
+         "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
+         "required": false,
+         "value": ""
+            },
+      "addons": [
     {
       "plan": "heroku-postgresql",
       "options": {
