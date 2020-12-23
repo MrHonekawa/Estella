@@ -15,25 +15,25 @@ But [I](https://t.me/McCoyEddy) Can Create a Bot For You By Taking work fee.
 ## DONATE
 
 __BITCOIN__ - 
-![BITCOIN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8A0H7A0Z5m2A0_cropped-btc-logo-bitcoin-faucet-icon%2F&psig=AOvVaw39pP9gHp-ocPd8PIcoLIGn&ust=1608787607412000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjgn6ev4-0CFQAAAAAdAAAAABAK)
+![BITCOIN](https://www.clipartmax.com/png/middle/213-2137673_cropped-btc-logo-bitcoin-faucet-icon.png)
 
 __ADDRESS__ - _bc1q3azw7pytd95tnjuev3u9cpahddx6dvmsq42rh0_
 
 
 __BITCOIN-CASH__ - 
-![BITCOIN-CASH](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fbtc%2Fcomments%2F6r2nxf%2Fbitcoin_cash_logo_proposal%2F&psig=AOvVaw3RIbAwp3QfNrFxpafMCmHa&ust=1608787875347000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDV6YOw4-0CFQAAAAAdAAAAABAD)
+![BITCOIN-CASH](https://i.redd.it/tsmzy49d4adz.jpg)
 
 __ADDRESS__ - _qzzc5gqxuspdvxylctfxtm0hdqz0mmeg65f84g4nd9_
 
 
 __TRON__ - 
-![TRON](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coinchoose.com%2Fnews%2Fnew-tron-developments%2F&psig=AOvVaw2XwxujtWbOFfp4Bt35k95-&ust=1608788146683000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICPqoix4-0CFQAAAAAdAAAAABAD)
+![TRON](https://dwmz1iz8a24ku.cloudfront.net/wp-content/uploads/2019/03/TRON.jpg)
 
 __ADDRESS__ - _TDEkqwGaXNANsChdAe9YaH332SoVJWdiXF_
 
 
 __DOGE__ -
-![DOGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDogecoin&psig=AOvVaw2r9SkJ1on0LojuEaLToqq9&ust=1608788258320000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJi6g7mx4-0CFQAAAAAdAAAAABAD)
+![DOGE](https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Dogecoin_Logo.png/150px-Dogecoin_Logo.png)
 
 __ADDRESS__ - _DJhzf9vZnqgk71jHLET86UizRVwSVKKVsi_
 
